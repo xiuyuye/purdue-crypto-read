@@ -19,6 +19,7 @@ The Purdue Crypto Reading Group focuses on exploring various topics in cryptogra
 Please fill out this availability survey to help us decide [when2meet](https://www.when2meet.com/?31844992-LR6e4).
 
 
-### Local development environment
+### Schedule (TBD)
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+| Date       | Paper Title                | Speaker   |
+|-----------|---------------------------|-----------|
