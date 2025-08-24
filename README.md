@@ -18,7 +18,7 @@ The Purdue Crypto Reading Group focuses on exploring various topics in cryptogra
 Please fill out this availability survey to help us decide [when2meet](https://www.when2meet.com/?31844992-LR6e4).
 
 
-### Schedule (TBD)
+## Schedule (TBD)
 
 <table>
   <thead>
