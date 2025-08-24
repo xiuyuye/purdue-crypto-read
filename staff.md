@@ -1,14 +1,19 @@
 ---
 layout: page
-title: Staff
-description: A listing of all the course staff members.
+title: Contact
+description: Contact for Purdue Reading Group
 ---
 
-# Staff
+# Contact
 
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
+If you are interested in giving a talk or leading a discussion of a paper, feel free to email Xiuyu at 'ye151@purdue.edu'.
+Please email her at least one week prior to your intended talk/discussion day so the group will have time to actually read the paper.
 
-## Instructors
+
+<!-- Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`. -->
+
+
+<!-- ## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
@@ -23,4 +28,4 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
-{% endif %}
+{% endif %} -->
