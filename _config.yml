@@ -22,8 +22,8 @@ url: 'https://xiuyuye.github.io' # the base hostname & protocol for your site, e
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
-# remote_theme: just-the-docs/just-the-docs@v0.10.1
-remote_theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+# remote_theme: just-the-docs
 color_scheme: dark
 search_enabled: false
 heading_anchors: false
@@ -75,9 +75,9 @@ liquid:
   strict_filters: true
 
 # Load custom CSS (remove if doesn't work)
-sass:
-  style: compressed
+# sass:
+#   style: compressed
 
-just_the_docs:
-  custom_css:
-    - /assets/css/styles.css
+# just_the_docs:
+#   custom_css:
+#     - /assets/css/styles.css
