@@ -31,11 +31,11 @@ permalink: pretty
 footer_content:
 
 # Collections for website data
-collections:
-  staffers:
-  modules:
-  schedules:
-  announcements:
+# collections:
+  # staffers:
+  # modules:
+  # schedules:
+  # announcements:
 # Default layouts for each collection type
 defaults:
   - scope:
