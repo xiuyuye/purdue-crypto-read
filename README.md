@@ -2,10 +2,10 @@
 layout: home
 title: Purdue Crypto Reading Group
 nav_exclude: true
-permalink: /:path/
+permalink: /
 seo:
   type: Course
-  name: Just the Class
+  name: Purdue Crypto Reading Group
 ---
 
 # Purdue Crypto Reading Group
