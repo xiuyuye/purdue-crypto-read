@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: Purdue Crypto Reading Group
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -8,20 +8,11 @@ seo:
   name: Just the Class
 ---
 
-# Just the Class
+# Purdue Crypto Reading Group
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+The Purdue Crypto Reading Group focuses on exploring research papers and foundational topics in cryptography. We meet regularly to discuss recent advances, classic results, and open problems in the field. The goal is to foster a collaborative learning environment where participants can deepen their understanding of cryptography, exchange ideas, and stay updated on cutting-edge research.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
-
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
 
 ## Getting Started
 
