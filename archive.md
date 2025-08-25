@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Archieve
+title: Archive
 description: >-
     Topics from the past sememsters.
 ---
 
 # Past semester
-We are trying to revive the cyrpto reading group at this point (Fall 2025) so there hasn't been an archieve yet.
+We are trying to revive the crypto reading group at this point (Fall 2025) so there hasn't been an archieve yet.
 But we will add it here in the future.
 
 # Past Special Topic Cryptography Courses at Purdue
@@ -22,7 +22,7 @@ But we will add it here in the future.
   <tbody>
     <tr>
       <td>Spring 2025</td>
-      <td>Advanced Cryptography (With a focus on MPC and ZK)</td>
+      <td><a href="https://example.com">Advanced Cryptography (With a focus on MPC and ZK)</a></td>
       <td>Aarushi Goel</td>
     </tr>
   </tbody>
