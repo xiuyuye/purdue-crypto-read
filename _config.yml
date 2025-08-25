@@ -37,30 +37,30 @@ footer_content:
   # schedules:
   # announcements:
 # Default layouts for each collection type
-defaults:
-  - scope:
-      path: ''
-      type: staffers
-    values:
-      layout: staffer
-      height: 300
-      subpath: ''
-      width: 300
-  - scope:
-      path: ''
-      type: modules
-    values:
-      layout: module
-  - scope:
-      path: ''
-      type: schedules
-    values:
-      layout: schedule
-  - scope:
-      path: ''
-      type: announcements
-    values:
-      layout: announcement
+# defaults:
+  # - scope:
+  #     path: ''
+  #     type: staffers
+  #   values:
+  #     layout: staffer
+  #     height: 300
+  #     subpath: ''
+  #     width: 300
+  # - scope:
+  #     path: ''
+  #     type: modules
+  #   values:
+  #     layout: module
+  # - scope:
+  #     path: ''
+  #     type: schedules
+  #   values:
+  #     layout: schedule
+  # - scope:
+  #     path: ''
+  #     type: announcements
+  #   values:
+  #     layout: announcement
 
 compress_html:
   clippings: all

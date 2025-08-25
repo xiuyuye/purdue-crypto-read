@@ -20,10 +20,8 @@ Please fill out this availability survey to help us decide [when2meet](https://w
 
 ## Schedule (TBD)
 
-| Date        | Paper Title          | Speaker |
-|:-------------|:------------------|:------|
 
-<!-- <table>
+<table>
   <thead>
     <tr>
       <th>Date</th>
@@ -32,10 +30,10 @@ Please fill out this availability survey to help us decide [when2meet](https://w
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <!-- <tr>
       <td>09/05/25</td>
       <td>Zero-Knowledge Proofs</td>
       <td>Alice</td>
-    </tr>
+    </tr> -->
   </tbody>
-</table> -->
+</table>
