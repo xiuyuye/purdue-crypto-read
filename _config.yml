@@ -28,7 +28,7 @@ color_scheme: dark
 search_enabled: false
 heading_anchors: false
 permalink: pretty
-footer_content:
+# footer_content:
 
 # Collections for website data
 # collections:
