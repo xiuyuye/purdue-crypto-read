@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Staff
+title: Contact
 description: Contact for Purdue Reading Group
 ---
 
