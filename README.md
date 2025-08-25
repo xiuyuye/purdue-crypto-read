@@ -20,7 +20,10 @@ Please fill out this availability survey to help us decide [when2meet](https://w
 
 ## Schedule (TBD)
 
-<table>
+| Date        | Paper Title          | Speaker |
+|:-------------|:------------------|:------|
+
+<!-- <table>
   <thead>
     <tr>
       <th>Date</th>
@@ -29,20 +32,10 @@ Please fill out this availability survey to help us decide [when2meet](https://w
     </tr>
   </thead>
   <tbody>
-    <!-- <tr>
+    <tr>
       <td>09/05/25</td>
       <td>Zero-Knowledge Proofs</td>
       <td>Alice</td>
     </tr>
-    <tr>
-      <td>09/12/25</td>
-      <td>Fully Homomorphic Encryption</td>
-      <td>Bob</td>
-    </tr>
-    <tr>
-      <td>09/19/25</td>
-      <td>Secure Multi-Party Computation</td>
-      <td>Charlie</td>
-    </tr> -->
   </tbody>
-</table>
+</table> -->

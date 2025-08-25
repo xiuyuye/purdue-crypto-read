@@ -6,7 +6,7 @@ description: Contact for Purdue Reading Group
 
 # Contact
 
-If you are interested in giving a talk or leading a discussion of a paper, feel free to email Xiuyu at 'ye151@purdue.edu'.
+If you are interested in giving a talk or leading discussion of a paper, feel free to email Xiuyu at 'ye151@purdue.edu'.
 Please email her at least one week prior to your intended talk/discussion day so the group will have time to actually read the paper.
 
 
