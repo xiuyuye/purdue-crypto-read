@@ -11,7 +11,8 @@ Here is a brief introduction of our crypto faculty members and their research in
 
 # Faculty Members
 
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
+I will ask the faculty members first before putting anything here~
+<!-- Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
 
 ## Instructors
 
@@ -30,4 +31,4 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {% endfor %}
 {% endif %}
 
-
+ -->
