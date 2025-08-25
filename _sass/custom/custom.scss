@@ -17,13 +17,24 @@
 .site-header .site-title {
   color: #000000;            /* Text color of the link */
   // font-weight: bold;
-  font-family: 'Poppins', sans-serif;
+  font-family: sans-serif;
   text-decoration: none;
 }
 
 /* Optional: hover effect */
 .site-header .site-title:hover {
   color: #ffffff;            /* White on hover */
+}
+
+/* Sidebar links */
+.nav-list .nav-list-item > a {
+  color: #CFB991; /* Purdue gold, for example */
+  text-decoration: none; /* optional: remove underline */
+}
+
+/* Sidebar links on hover */
+.nav-list .nav-list-item > a:hover {
+  color: #000000; /* black on hover */
 }
 
 // Overrides
