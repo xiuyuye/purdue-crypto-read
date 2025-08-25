@@ -7,6 +7,8 @@
 @import 'schedule';
 @import 'staffer';
 
+
+
 /* Change the top-left block color */
 .site-header {
   background-color: #CFB991; /* Purdue gold */
@@ -18,6 +20,8 @@
   color: #000000;            /* Text color of the link */
   // font-weight: bold;
   font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 30px;
+  text-shadow: 3px 3px 3px #ababab;
   text-decoration: none;
 }
 
