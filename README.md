@@ -26,14 +26,14 @@ We meet on Wednesday 3-4 p.m at DSAI 1004.
     <tr>
       <th>Date</th>
       <th>Paper Title</th>
-      <th>Speaker</th>
+      <th>Presenter</th>
     </tr>
   </thead>
   <tbody>
-    <!-- <tr>
-      <td>09/05/25</td>
-      <td>Zero-Knowledge Proofs</td>
-      <td>Alice</td>
-    </tr> -->
+    <tr>
+      <td>Sept 10th.</td>
+      <td><a href="https://eprint.iacr.org/2024/405">Traceable Secret Sharing: Strong Security and Efficient Constructions</a></td>
+      <td>Xiuyu Ye</td>
+    </tr>
   </tbody>
 </table>
