@@ -3,6 +3,7 @@ layout: page
 title: About
 description: >-
     Purdue Group Group
+nav_exclude: true
 ---
 
 # Purdue Crypto Group

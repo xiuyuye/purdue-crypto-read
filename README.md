@@ -15,7 +15,7 @@ The Purdue Crypto Reading Group focuses on exploring various topics in cryptogra
 
 ## Meeting Time (Fall 2025)
 
-Please fill out this availability survey to help us decide [when2meet](https://www.when2meet.com/?31844992-LR6e4).
+We meet on Wednesday 3-4 p.m at DSAI 1004.
 
 
 ## Schedule (TBD)
