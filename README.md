@@ -15,7 +15,7 @@ The Purdue Crypto Reading Group focuses on exploring various topics in cryptogra
 
 ## Meeting Time (Fall 2025)
 
-We meet on Wednesday 3-4 p.m at DSAI 1004.
+We meet every Wednesday 3-4 p.m at DSAI 1004.
 
 
 ## Schedule (TBD)
@@ -25,7 +25,7 @@ We meet on Wednesday 3-4 p.m at DSAI 1004.
   <thead>
     <tr>
       <th>Date</th>
-      <th>Paper Title</th>
+      <th style="width: 150px;">Paper Title</th>
       <th>Presenter</th>
     </tr>
   </thead>
