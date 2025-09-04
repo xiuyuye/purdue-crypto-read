@@ -39,7 +39,7 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
       <td>
         <b>Traceable Secret Sharing</b>
         <br>
-        Resources: <b>[<a href="https://eprint.iacr.org/2024/405">BPR25</a>]</b>, [<a href="https://eprint.iacr.org/2021/871">GSS21</a>]
+        Resources: <b>[<a href="https://eprint.iacr.org/2024/405">BPR24</a>]</b>, [<a href="https://eprint.iacr.org/2021/871">GSS21</a>]
       </td>
       <td><a href="https://xiuyuye.github.io/">Xiuyu Ye</a></td>
     </tr>
