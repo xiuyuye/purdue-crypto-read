@@ -37,9 +37,10 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
     <tr>
       <td>Sep 10th</td>
       <td>
-        <b>Traceable Secret Sharing</b>
+        <b>Traceable Secret Sharing and Multi-dealer secret sharing</b>
         <br>
-        Resources: <b>[<a href="https://eprint.iacr.org/2024/405">BPR24</a>]</b>, [<a href="https://eprint.iacr.org/2021/871">GSS21</a>]
+        Resources: <b>[<a href="https://eprint.iacr.org/2024/405">BPR24</a>]</b>
+        <b>[<a href="https://www.usenix.org/system/files/usenixsecurity24-eldridge.pdf">EBGHJ24</a>]</b>
       </td>
       <td><a href="https://xiuyuye.github.io/">Xiuyu Ye</a></td>
     </tr>

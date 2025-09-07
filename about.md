@@ -14,3 +14,5 @@ Here is a brief introduction of our crypto faculty members and their research in
 
 I will ask the faculty members first before putting anything here~
 
+
+ <!-- style="max-width: 500px;" -->
