@@ -55,7 +55,11 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
         <br>
         Resources: [<a href="https://eprint.iacr.org/2024/405">BPR24</a>]
         -->
-        TBD
+        <b>Securing Data Integrity in Modern Overlay Networks: an Integrated Perspective from Theory to Practice</b>
+        <br>
+        Resources: <b>[<a href="https://zhtluo.com/paper/Cauchyproofs__Batch_Updatable_Vector_Commitment_with_Easy_Aggregation_and_Application_to_Stateless_Blockchains.pdf">LJGK25</a>]</b>
+        <b>[<a href="https://zhtluo.com/paper/Proxying_Is_Enough__Security_of_Proxying_in_TLS_Oracles_and_AEAD_Context_Unforgeability.pdf">LJSK24</a>]</b>
+        <b>[<a href="https://zhtluo.com/paper/Attacking_and_Improving_the_Tor_Directory_Protocol.pdf">LBNK24</a>]</b>
       </td>
       <td><a href="https://zhtluo.com/">Zhongtang Luo</a></td>
     </tr>
@@ -63,7 +67,7 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
   <!-- -->
   <tbody>
     <tr>
-      <td>Sep 17th</td>
+      <td>Sep 24th</td>
       <td>
         <b>Geometry of Secure Computation: Solving Linear Inequalities over Convex Sets</b>
         <br>
