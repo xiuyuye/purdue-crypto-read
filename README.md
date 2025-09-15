@@ -69,9 +69,7 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
     <tr>
       <td>Sep 24th</td>
       <td>
-        <b>Geometry of Secure Computation: Solving Linear Inequalities over Convex Sets</b>
-        <br>
-        Resources: <b>[<a href="https://www.cs.purdue.edu/homes/hmaji/papers/BKMN24.pdf">BKMN25</a>]</b>, [<a href="https://www.cs.purdue.edu/homes/hmaji/papers/BKMN23.pdf">BKMN23</a>], [<a href="https://www.cs.purdue.edu/homes/hmaji/papers/BKMN22.pdf">BKMN22</a>]
+        <b>TBD</b>
       </td>
       <td><a href="https://www.cs.purdue.edu/homes/haminikh/">Hamidreza Amini Khorasgani</a></td>
     </tr>
