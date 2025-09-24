@@ -20,7 +20,7 @@ The goal is to foster a collaborative learning environment where participants ca
 We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
 
 
-## Schedule (TBD)
+## Schedule
 
 <p><small>(The bolded resource indicates the primary reference for the talk.)</small></p>
 
