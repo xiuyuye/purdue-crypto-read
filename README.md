@@ -83,7 +83,7 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
       <td>
         <b>From Systems to Cryptography: ATop-Down Approach to Building Privacy-Preserving Systems</b>
         <br>
-        <b>1:30-2:30, LWSN 3102</b>
+        1:30-2:30, LWSN 3102
       </td>
       <td><a href="https://www.cs.purdue.edu/homes/clg/">Christina Garman</a></td>
     </tr>
