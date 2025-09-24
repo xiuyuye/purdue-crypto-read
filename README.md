@@ -91,6 +91,18 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
   <!-- -->
   <tbody>
     <tr>
+      <td><i>Oct 2nd</i></td>
+      <td>
+        <b>Re-thinking Secure (Distributed) Cryptosystems: Breaking Away FromTradition For Real World Use</b>
+        <br>
+        1:30-2:30, LWSN 3102
+      </td>
+      <td><a href="https://www.cs.purdue.edu/homes/akate/">Aniket Kate</a></td>
+    </tr>
+  </tbody>
+  <!-- -->
+  <tbody>
+    <tr>
       <td>Oct 8th</td>
       <td>
         <b>Reverse Multiplication Friendly Embedding (RMFE)</b>
