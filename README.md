@@ -69,7 +69,9 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
     <tr>
       <td>Sep 24th</td>
       <td>
-        <b>TBD</b>
+        <b>Game-Theoretically Fair Distributed Sampling</b>
+        <br>
+        Resources: <b>[<a href="https://eprint.iacr.org/2024/223.pdf">TWS24</a>]</b>
       </td>
       <td><a href="https://www.cs.purdue.edu/homes/haminikh/">Hamidreza Amini Khorasgani</a></td>
     </tr>
@@ -79,9 +81,11 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
     <tr>
       <td><i>Oct 1st</i></td>
       <td>
-        <i>Break [<a href="https://eurocrypt.iacr.org/2026/">EuroCrypt 2026</a> Deadline]</i>
+        <b>From Systems to Cryptography: ATop-Down Approach to Building Privacy-Preserving Systems</b>
+        <br>
+        <b>1:30-2:30, LWSN 3102</b>
       </td>
-      <td>:-)</td>
+      <td><a href="https://www.cs.purdue.edu/homes/clg/">Christina Garman</a></td>
     </tr>
   </tbody>
   <!-- -->
