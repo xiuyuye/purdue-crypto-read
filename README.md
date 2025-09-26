@@ -145,7 +145,7 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
     </tr>
   </tbody>
   <!-- -->
-  <tbody>
+  <!-- <tbody>
     <tr>
       <td>Nov 5th</td>
       <td>
@@ -154,6 +154,6 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
         Resources: <b>[TBD<a href=""></a>]</b></td>
       <td><a href="https://cs.purdue.edu/homes/gfrancoc/">Gustavo Camilo</a></td>
     </tr>
-  </tbody>
+  </tbody> -->
   <!-- -->
 </table>
