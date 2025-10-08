@@ -103,7 +103,7 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
   <!-- -->
   <tbody>
     <tr>
-      <td>Oct 8th</td>
+      <td>Oct 8th (Cancelled)</td>
       <td>
         <b>Reverse Multiplication Friendly Embedding (RMFE)</b>
         <br>
@@ -116,9 +116,9 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
     <tr>
       <td>Oct 15th</td>
       <td>
-        <b>TBD</b>
+        <b>Strong Secret Sharing with Snitching</b>
         <br>
-        Resources: <b>[TBD<a href=""></a>]</b></td>
+        Resources: <b>[BDFLM<a href="https://eprint.iacr.org/2025/1119"></a>]</b></td>
       <td><a href="https://www.cs.purdue.edu/people/graduate-students/brunnec.html">Colten Brunner</a></td>
     </tr>
   </tbody>
@@ -136,7 +136,18 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
   <!-- -->
   <tbody>
     <tr>
-      <td>Oct 29th</td>
+      <td>Oct 29th (First year Research seminar)</td>
+      <td>
+        <b>Provable Trustworthy Machine Learning via Differential Trust</b>
+        <br>
+        3:30-4:30, LWSN 1142
+      <td><a href="https://hanshen-xiao.github.io/">Hanshen Xiao</a></td>
+    </tr>
+  </tbody>
+  <!-- -->
+  <tbody>
+    <tr>
+      <td>Nov 5th</td>
       <td>
         <b>TBD</b>
         <br>
