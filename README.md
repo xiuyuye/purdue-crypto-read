@@ -118,7 +118,7 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
       <td>
         <b>Strong Secret Sharing with Snitching</b>
         <br>
-        Resources: <b>[BDFLM<a href="https://eprint.iacr.org/2025/1119"></a>]</b></td>
+        Resources: <b>[<a href="https://eprint.iacr.org/2025/1119">BDFLM</a>]</b></td>
       <td><a href="https://www.cs.purdue.edu/people/graduate-students/brunnec.html">Colten Brunner</a></td>
     </tr>
   </tbody>
