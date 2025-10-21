@@ -125,12 +125,12 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
   <!-- -->
   <tbody>
     <tr>
-      <td>Oct 22nd</td>
+      <td>Oct 22nd </td>
       <td>
-        <b>TBD</b>
+        <b>Reverse Multiplication Friendly Embedding (RMFE)</b>
         <br>
-        Resources: <b>[TBD<a href=""></a>]</b></td>
-      <td><a href="https://www.cs.purdue.edu/homes/white570/">Jacob White</a></td>
+        Resources: <b>[<a href="https://eprint.iacr.org/2018/429">CCXY18</a>]</b>, [<a href="https://eprint.iacr.org/2018/395">BMN18</a>], [<a href="https://eprint.iacr.org/2019/832">CRX21</a>]</td>
+      <td><a href="https://jihunhwang.github.io/">Jihun Hwang (Jimmy)</a></td>
     </tr>
   </tbody>
   <!-- -->
@@ -140,7 +140,7 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
       <td>
         <b>Provable Trustworthy Machine Learning via Differential Trust</b>
         <br>
-        3:30-4:30, LWSN 1142
+        3:30-4:30, LWSN 1142</td>
       <td><a href="https://hanshen-xiao.github.io/">Hanshen Xiao</a></td>
     </tr>
   </tbody>
