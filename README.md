@@ -147,6 +147,18 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
   <!-- -->
   <tbody>
     <tr>
+      <td>Nov 5th (CS-Colloquium)</td>
+      <td>
+        <b>Private Information Retrieval in the Shufle Model</b>
+        <br>
+        2:00-3:00, LWSN 3102
+      <td>Yiping Ma</a></td>
+    </tr>
+  </tbody>
+  <!-- -->
+  <!-- -->
+  <tbody>
+    <tr>
       <td>Nov 5th</td>
       <td>
         <b>TBD</b>
