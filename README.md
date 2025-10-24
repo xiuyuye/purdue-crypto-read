@@ -50,11 +50,6 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
     <tr>
       <td>Sep 17th</td>
       <td>
-        <!--
-        <a href="https://eprint.iacr.org/2024/405">Traceable Secret Sharing</a>
-        <br>
-        Resources: [<a href="https://eprint.iacr.org/2024/405">BPR24</a>]
-        -->
         <b>Securing Data Integrity in Modern Overlay Networks: an Integrated Perspective from Theory to Practice</b>
         <br>
         Resources: <b>[<a href="https://zhtluo.com/paper/Cauchyproofs__Batch_Updatable_Vector_Commitment_with_Easy_Aggregation_and_Application_to_Stateless_Blockchains.pdf">LJGK25</a>]</b>
@@ -79,7 +74,7 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
   <!-- -->
   <tbody>
     <tr>
-      <td><i>Oct 1st</i></td>
+      <td><i>Oct 1st</i> (Research Talk)</td>
       <td>
         <b>From Systems to Cryptography: ATop-Down Approach to Building Privacy-Preserving Systems</b>
         <br>
@@ -91,7 +86,7 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
   <!-- -->
   <tbody>
     <tr>
-      <td><i>Oct 2nd</i></td>
+      <td><i>Oct 2nd</i> (Research Talk)</td>
       <td>
         <b>Re-thinking Secure (Distributed) Cryptosystems: Breaking Away FromTradition For Real World Use</b>
         <br>
@@ -103,12 +98,12 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
   <!-- -->
   <tbody>
     <tr>
-      <td>Oct 8th (Cancelled)</td>
+      <td><s>Oct 8th</s> (Cancelled)</td>
       <td>
-        <b>Reverse Multiplication Friendly Embedding (RMFE)</b>
+        <b><s>Reverse Multiplication Friendly Embedding (RMFE)</s></b>
         <br>
-        Resources: <b>[<a href="https://eprint.iacr.org/2018/429">CCXY18</a>]</b>, [<a href="https://eprint.iacr.org/2018/395">BMN18</a>], [<a href="https://eprint.iacr.org/2019/832">CRX21</a>]</td>
-      <td><a href="https://jihunhwang.github.io/">Jihun Hwang (Jimmy)</a></td>
+        <s>Resources: <b>[<a href="https://eprint.iacr.org/2018/429">CCXY18</a>]</b>, [<a href="https://eprint.iacr.org/2018/395">BMN18</a>], [<a href="https://eprint.iacr.org/2021/694">CG22</a>]</s></td>
+      <td><s><a href="https://jihunhwang.github.io/">Jihun Hwang (Jimmy)</a></s></td>
     </tr>
   </tbody>
   <!-- -->
@@ -125,18 +120,18 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
   <!-- -->
   <tbody>
     <tr>
-      <td>Oct 22nd </td>
+      <td>Oct 22nd</td>
       <td>
         <b>Reverse Multiplication Friendly Embedding (RMFE)</b>
         <br>
-        Resources: <b>[<a href="https://eprint.iacr.org/2018/429">CCXY18</a>]</b>, [<a href="https://eprint.iacr.org/2018/395">BMN18</a>], [<a href="https://eprint.iacr.org/2019/832">CRX21</a>]</td>
+        Resources: <b>[<a href="https://eprint.iacr.org/2018/429">CCXY18</a>]</b>, [<a href="https://eprint.iacr.org/2018/395">BMN18</a>], [<a href="https://eprint.iacr.org/2021/694">CG22</a>]</td>
       <td><a href="https://jihunhwang.github.io/">Jihun Hwang (Jimmy)</a></td>
     </tr>
   </tbody>
   <!-- -->
   <tbody>
     <tr>
-      <td>Oct 29th (First year Research seminar)</td>
+      <td><i>Oct 29th</i> (First year Research seminar)</td>
       <td>
         <b>Provable Trustworthy Machine Learning via Differential Trust</b>
         <br>
