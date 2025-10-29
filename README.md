@@ -147,7 +147,7 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
         <b>Private Information Retrieval in the Shufle Model</b>
         <br>
         2:00-3:00, LWSN 3102
-      <td>Yiping Ma</a></td>
+      <td>Yiping Ma</td>
     </tr>
   </tbody>
   <!-- -->
