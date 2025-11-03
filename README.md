@@ -158,7 +158,7 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
       <td>
         <b>Oblivious Transfer Combiner</b>
         <br>
-        Resources: <b>[HKNRR05<a href="https://link.springer.com/chapter/10.1007/11426639_6"></a>]</b></td>
+        Resources: <b>[<a href="https://link.springer.com/chapter/10.1007/11426639_6">HKNRR05</a>]</b></td>
       <td><a href="https://sites.google.com/view/albert-yu">Albert Yu</a></td>
     </tr>
   </tbody>
@@ -170,7 +170,7 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
       <td>
         <b>The Impact of Reversibility on Parallel Pebbling</b>
         <br>
-        Resources: <b>[BHL25<a href="https://eprint.iacr.org/2024/334.pdf"></a>]</b></td>
+        Resources: <b>[<a href="https://eprint.iacr.org/2024/334.pdf">BHL25</a>]</b></td>
       <td><a href="https://blake-holman.github.io/">Blake Holman</a></td>
     </tr>
   </tbody>
