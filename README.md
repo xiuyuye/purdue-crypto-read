@@ -154,12 +154,48 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
   <!-- -->
   <tbody>
     <tr>
-      <td>Nov 5th</td>
+      <td>Nov 12th</td>
+      <td>
+        <b>Oblivious Transfer Combiner</b>
+        <br>
+        Resources: <b>[HKNRR05<a href="https://link.springer.com/chapter/10.1007/11426639_6"></a>]</b></td>
+      <td><a href="https://sites.google.com/view/albert-yu">Albert Yu</a></td>
+    </tr>
+  </tbody>
+  <!-- -->
+  <!-- -->
+  <tbody>
+    <tr>
+      <td>Nov 19th</td>
+      <td>
+        <b>The Impact of Reversibility on Parallel Pebbling</b>
+        <br>
+        Resources: <b>[BHL25<a href="https://eprint.iacr.org/2024/334.pdf"></a>]</b></td>
+      <td><a href="https://blake-holman.github.io/">Blake Holman</a></td>
+    </tr>
+  </tbody>
+  <!-- -->
+  <!-- -->
+  <tbody>
+    <tr>
+      <td>Dec 3rd</td>
       <td>
         <b>TBD</b>
         <br>
         Resources: <b>[TBD<a href=""></a>]</b></td>
-      <td><a href="https://sites.google.com/view/albert-yu">Albert Yu</a></td>
+      <td><a href="">TBD</a></td>
+    </tr>
+  </tbody>
+  <!-- -->
+  <!-- -->
+  <tbody>
+    <tr>
+      <td>Dec 10th</td>
+      <td>
+        <b>TBD</b>
+        <br>
+        Resources: <b>[TBD<a href=""></a>]</b></td>
+      <td><a href="">TBD</a></td>
     </tr>
   </tbody>
   <!-- -->
