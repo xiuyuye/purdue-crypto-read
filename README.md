@@ -154,12 +154,12 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
   <!-- -->
   <tbody>
     <tr>
-      <td>Nov 12th</td>
+      <td><s>Nov 12th</s></td>
       <td>
-        <b>Oblivious Transfer Combiner</b>
+        <b><s>Oblivious Transfer Combiner</s></b>
         <br>
-        Resources: <b>[<a href="https://link.springer.com/chapter/10.1007/11426639_6">HKNRR05</a>]</b></td>
-      <td><a href="https://sites.google.com/view/albert-yu">Albert Yu</a></td>
+        <s>Resources: <b>[<a href="https://link.springer.com/chapter/10.1007/11426639_6">HKNRR05</a>]</b></s></td>
+      <td><s><a href="https://sites.google.com/view/albert-yu">Albert Yu</a></s></td>
     </tr>
   </tbody>
   <!-- -->
@@ -180,10 +180,10 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
     <tr>
       <td>Dec 3rd</td>
       <td>
-        <b>TBD</b>
+        <b>Oblivious Transfer Combiner</b>
         <br>
-        Resources: <b>[TBD<a href=""></a>]</b></td>
-      <td><a href="">TBD</a></td>
+        Resources: <b>[<a href="https://link.springer.com/chapter/10.1007/11426639_6">HKNRR05</a>]</b></td>
+      <td><a href="https://sites.google.com/view/albert-yu">Albert Yu</a></td>
     </tr>
   </tbody>
   <!-- -->
