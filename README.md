@@ -154,7 +154,7 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
   <!-- -->
   <tbody>
     <tr>
-      <td><s>Nov 12th</s></td>
+      <td><s>Nov 12th</s>(Cancelled)</td>
       <td>
         <b><s>Oblivious Transfer Combiner</s></b>
         <br>
@@ -192,10 +192,10 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
     <tr>
       <td>Dec 10th</td>
       <td>
-        <b>TBD</b>
+        <b>PAC Privacy</b>
         <br>
         Resources: <b>[TBD<a href=""></a>]</b></td>
-      <td><a href="">TBD</a></td>
+      <td><a href="">Justin He</a></td>
     </tr>
   </tbody>
   <!-- -->
