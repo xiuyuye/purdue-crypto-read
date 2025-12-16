@@ -142,19 +142,19 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
   <!-- -->
   <tbody>
     <tr>
-      <td>Nov 5th (CS-Colloquium)</td>
+      <td><i>Nov 5th</i> (CS-Colloquium)</td>
       <td>
-        <b>Private Information Retrieval in the Shufle Model</b>
+        <b>Private Information Retrieval in the Shuffle Model</b>
         <br>
         2:00-3:00, LWSN 3102</td>
-      <td>Yiping Ma</td>
+      <td><a href="https://yiping106283.github.io/academic/">Yiping Ma</a></td>
     </tr>
   </tbody>
   <!-- -->
   <!-- -->
   <tbody>
     <tr>
-      <td><s>Nov 12th</s>(Cancelled)</td>
+      <td><s>Nov 12th</s> (Cancelled)</td>
       <td>
         <b><s>Oblivious Transfer Combiner</s></b>
         <br>
@@ -194,7 +194,7 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
       <td>
         <b>PAC Privacy</b>
         <br>
-        Resources: <b>[TBD<a href=""></a>]</b></td>
+        Resources: <b>[<a href="https://eprint.iacr.org/2024/718">SXD25</a>]</b></td>
       <td><a href="">Justin He</a></td>
     </tr>
   </tbody>
