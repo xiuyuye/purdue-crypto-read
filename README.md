@@ -195,7 +195,7 @@ We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
         <b>PAC Privacy</b>
         <br>
         Resources: <b>[<a href="https://eprint.iacr.org/2024/718">SXD25</a>]</b></td>
-      <td><a href="">Justin He</a></td>
+      <td><a href="https://www.cs.purdue.edu/people/graduate-students/he924.html">Justin He</a></td>
     </tr>
   </tbody>
   <!-- -->
