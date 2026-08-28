@@ -57,9 +57,19 @@ details {
 }
 
 summary {
-  @extend .btn, .btn-outline;
-
+  //@extend .btn, .btn-outline;
+  @extend .btn;
   width: 100%;
+  //cursor: pointer;
+  //list-style: none;
+}
+
+summary::after {
+  content: " (Click to expand)";
+}
+
+details[open] > summary::after {
+  content: " (Click to collapse)";
 }
 
 .main-content {
@@ -83,3 +93,4 @@ summary {
     }
   }
 }
+
