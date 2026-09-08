@@ -46,7 +46,7 @@ The goal is to foster a collaborative learning environment where participants ca
   <!-- -->
   <tbody>
     <tr>
-      <td>Sep 11th (TBD)</td>
+      <td>Sep 11th</td>
       <td>
         <b>Organizational Meeting</b>
         <br>
@@ -57,17 +57,17 @@ The goal is to foster a collaborative learning environment where participants ca
   <!-- -->
   <tbody>
     <tr>
-      <td>Sep 18th (TBD)</td>
+      <td>Sep 18th</td>
       <td>
-        <b>No talk (EuroCrypt deadline)</b>
+        <b>No talk (Eurocrypt deadline)</b>
         <br>
         Resources: <a href="https://eurocrypt.iacr.org/2027/">https://eurocrypt.iacr.org/2027/</a>
       </td>
       <td>Good luck! :-)</td>
     </tr>
   </tbody>
-  <!-- -->
-  <tbody>
+  <!-- --> 
+<!--   <tbody>
     <tr>
       <td>Sep 25th (TBD)</td>
       <td>
@@ -77,7 +77,7 @@ The goal is to foster a collaborative learning environment where participants ca
       </td>
       <td><a href="https://jihunhwang.github.io/">Jihun Hwang (Jimmy)</a></td>
     </tr>
-  </tbody>
+  </tbody> -->
   <!-- -->
   <!-- -->
   <!-- <tbody>
