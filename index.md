@@ -66,7 +66,7 @@ The goal is to foster a collaborative learning environment where participants ca
       <td>Good luck! :-)</td>
     </tr>
   </tbody>
-  <!-- -->
+  <!-- --> 
 <!--   <tbody>
     <tr>
       <td>Sep 25th (TBD)</td>
