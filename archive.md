@@ -60,7 +60,7 @@ We met every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
     </tr>
   </tbody>
   <!-- -->
-  <tbody>
+<!--   <tbody>
     <tr>
       <td><i>Oct 1st</i> (Research Talk)</td>
       <td>
@@ -70,9 +70,20 @@ We met every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
       </td>
       <td><a href="https://www.cs.purdue.edu/homes/clg/">Christina Garman</a></td>
     </tr>
+  </tbody> -->
+  <tbody>
+    <tr>
+      <td>Oct 1st</td>
+      <td>
+        <b>No Talk (Eurocrypt deadline)</b>
+        <br>
+        Resources: <a href="https://eurocrypt.iacr.org/2026/">https://eurocrypt.iacr.org/2026/</a>
+      </td>
+      <td>Good luck! :-)</td>
+    </tr>
   </tbody>
   <!-- -->
-  <tbody>
+<!--   <tbody>
     <tr>
       <td><i>Oct 2nd</i> (Research Talk)</td>
       <td>
@@ -82,9 +93,9 @@ We met every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
       </td>
       <td><a href="https://www.cs.purdue.edu/homes/akate/">Aniket Kate</a></td>
     </tr>
-  </tbody>
+  </tbody> -->
   <!-- -->
-  <tbody>
+<!--   <tbody>
     <tr>
       <td><s>Oct 8th</s> (Cancelled)</td>
       <td>
@@ -93,7 +104,7 @@ We met every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
         <s>Resources: <b>[<a href="https://eprint.iacr.org/2018/429">CCXY18</a>]</b>, [<a href="https://eprint.iacr.org/2018/395">BMN18</a>], [<a href="https://eprint.iacr.org/2021/694">CG22</a>]</s></td>
       <td><s><a href="https://jihunhwang.github.io/">Jihun Hwang (Jimmy)</a></s></td>
     </tr>
-  </tbody>
+  </tbody> -->
   <!-- -->
   <tbody>
     <tr>
@@ -117,7 +128,7 @@ We met every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
     </tr>
   </tbody>
   <!-- -->
-  <tbody>
+<!--   <tbody>
     <tr>
       <td><i>Oct 29th</i> (First year Research seminar)</td>
       <td>
@@ -126,9 +137,9 @@ We met every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
         3:30-4:30, LWSN 1142</td>
       <td><a href="https://hanshen-xiao.github.io/">Hanshen Xiao</a></td>
     </tr>
-  </tbody>
+  </tbody> -->
   <!-- -->
-  <tbody>
+<!--   <tbody>
     <tr>
       <td><i>Nov 5th</i> (CS-Colloquium)</td>
       <td>
@@ -137,10 +148,10 @@ We met every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
         2:00-3:00, LWSN 3102</td>
       <td><a href="https://yiping106283.github.io/academic/">Yiping Ma</a></td>
     </tr>
-  </tbody>
+  </tbody> -->
   <!-- -->
   <!-- -->
-  <tbody>
+<!--   <tbody>
     <tr>
       <td><s>Nov 12th</s> (Cancelled)</td>
       <td>
@@ -149,7 +160,7 @@ We met every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
         <s>Resources: <b>[<a href="https://link.springer.com/chapter/10.1007/11426639_6">HKNRR05</a>]</b></s></td>
       <td><s><a href="https://sites.google.com/view/albert-yu">Albert Yu</a></s></td>
     </tr>
-  </tbody>
+  </tbody> -->
   <!-- -->
   <!-- -->
   <tbody>
@@ -204,7 +215,9 @@ We met every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
 ### Advanced graduate-level cryptography-related courses at Purdue CS 
 
 #### This is a non-exhaustive list
+<p></p>
 
+<details closed><summary>Schedule</summary>
 <table>
   <thead>
     <tr>
@@ -247,6 +260,7 @@ We met every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.
       <td>Christina Garman</td></tr>
   </tbody>
 </table>
+</details>
 
 ## Other Resources
 

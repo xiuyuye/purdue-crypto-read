@@ -19,13 +19,16 @@ The goal is to foster a collaborative learning environment where participants ca
 
 ## Meeting Time and location (Fall 2026)
 
-<p>TBD. Please see the announcement. Stay tuned!</p>
-
-<p>Please see <a href="contact">contact</a> if you are interested in giving a talk, or drop by one of our meetings.</p>
-
 <!--
-<p>We meet every <b>Wednesday 3-4 PM</b> at <b>DSAI 1004</b>.</p>
+<p>TBD. Please see the announcement. Stay tuned!</p>
 -->
+
+<p><b>Fridays 1:30 - 2:30 PM</b> at <b>DSAI 1004</b>.</p>
+
+
+<p>Please see <a href="contact">contact</a> if you are interested in giving a talk, or drop by one of our meetings and talk to us.</p>
+
+
 
 ## Schedule
 
@@ -60,7 +63,7 @@ The goal is to foster a collaborative learning environment where participants ca
         <br>
         Resources: <a href="https://eurocrypt.iacr.org/2027/">https://eurocrypt.iacr.org/2027/</a>
       </td>
-      <td>:-)</td>
+      <td>Good luck! :-)</td>
     </tr>
   </tbody>
   <!-- -->
