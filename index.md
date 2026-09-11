@@ -51,7 +51,7 @@ The goal is to foster a collaborative learning environment where participants ca
         <b>Organizational Meeting</b>
         <br>
       </td>
-      <td><a href="https://jihunhwang.github.io/">Jihun Hwang (Jimmy)</a> and <a href="https://xiuyuye.github.io/">Xiuyu Ye</a></td>
+      <td>Organizers: <a href="https://xiuyuye.github.io/">Xiuyu Ye</a> and <a href="https://jihunhwang.github.io/">Jihun Hwang</a></td>
     </tr>
   </tbody>
   <!-- -->
@@ -67,18 +67,139 @@ The goal is to foster a collaborative learning environment where participants ca
     </tr>
   </tbody>
   <!-- --> 
-<!--   <tbody>
+  <tbody>
     <tr>
-      <td>Sep 25th (TBD)</td>
+      <td>Sep 25th</td>
       <td>
-        <b>Pseudorandom Correlation Generator: Introduction and recent developments</b> (TBD)
+        <b>Efficient Pseudorandom Correlation Generator</b>
         <br>
-        Resources: <b>[<a href="https://eprint.iacr.org/2025/169">BCGIK19</a>]</b>, <b>[<a href="https://eprint.iacr.org/2025/169">LXYY25a</a>]</b>, [<a href="https://eprint.iacr.org/2025/1223">LXYY25b</a>], [<a href="https://eprint.iacr.org/2026/196">LLXYY26</a>]
+        Resources: <b>[<a href="https://eprint.iacr.org/2025/169">BCG+19</a>]</b>, <b>[<a href="https://eprint.iacr.org/2025/169">LXYY25a</a>]</b>, [<a href="https://eprint.iacr.org/2025/1223">LXYY25b</a>], [<a href="https://eprint.iacr.org/2026/196">LLX+26</a>]
       </td>
       <td><a href="https://jihunhwang.github.io/">Jihun Hwang (Jimmy)</a></td>
     </tr>
-  </tbody> -->
+  </tbody>
   <!-- -->
+  <!-- --> 
+  <tbody>
+    <tr>
+      <td>Oct 2nd</td>
+      <td>
+        <b>Title TBD</b>
+        <br>
+        Resources: <b>[<a href="">TBD</a>]</b>
+      </td>
+      <td><a href="https://www.cs.purdue.edu/homes/white570/">Jacob White</a></td>
+    </tr>
+  </tbody>
+  <!-- -->
+  <!-- --> 
+  <tbody>
+    <tr>
+      <td>Oct 9th</td>
+      <td>
+        <b>Beyond Threshold Security: Additive Secret Sharing under Hamming-Weight Leakage</b>
+        <br>
+        Resources: <b>[<a href="https://www.cs.purdue.edu/homes/hmaji/papers/BHMSY26.pdf">BHS+26b</a>]</b>, <b>[<a href="https://arxiv.org/abs/2609.08056">BHS+26a</a>]</b>, [<a href="https://eprint.iacr.org/2024/377">FMM+24</a>], [<a href="https://www.cs.purdue.edu/homes/hmaji/papers/ITC:MNPSWYY22.pdf">MNP+22</a>]
+      </td>
+      <td><a href="https://jihunhwang.github.io/">Jihun Hwang (Jimmy)</a></td>
+    </tr>
+  </tbody>
+  <!-- -->
+  <!-- --> 
+  <tbody>
+    <tr>
+      <td>Oct 16th</td>
+      <td>
+        <b>(TBD) Probabilistic Encryption</b>
+        <br>
+        Resources: (TBD) <b>[<a href="https://doi.org/10.1145/800070.802212">GW82</a>]</b>, [<a href="https://doi.org/10.1007/3-540-39568-7_23">BG84</a>], [<a href="https://doi.org/10.1016/0022-0000(84)90070-9">GW84</a>]
+      </td>
+      <td><a href="https://xiuyuye.github.io/">Xiuyu Ye</a></td>
+    </tr>
+  </tbody>
+  <!-- -->
+  <tbody>
+    <tr>
+      <td>Oct 23rd</td>
+      <td>
+        <b>TBD</b>
+        <br>
+        Resources: <b>[TBD<a href=""></a>]</b></td>
+      <td><a href="">TBD</a></td>
+    </tr>
+  </tbody>
+  <!-- -->
+  <!-- -->
+  <tbody>
+    <tr>
+      <td>Oct 30th</td>
+      <td>
+        <b>TBD</b>
+        <br>
+        Resources: <b>[TBD<a href=""></a>]</b></td>
+      <td><a href="">TBD</a></td>
+    </tr>
+  </tbody>
+  <!-- -->
+  <!-- -->
+  <tbody>
+    <tr>
+      <td>Nov 6th</td>
+      <td>
+        <b>TBD</b>
+        <br>
+        Resources: <b>[TBD<a href=""></a>]</b></td>
+      <td><a href="">TBD</a></td>
+    </tr>
+  </tbody>
+  <!-- -->
+  <!-- -->
+  <tbody>
+    <tr>
+      <td>Nov 13th</td>
+      <td>
+        <b>TBD</b>
+        <br>
+        Resources: <b>[TBD<a href=""></a>]</b></td>
+      <td><a href="">TBD</a></td>
+    </tr>
+  </tbody>
+  <!-- -->
+  <!-- -->
+  <tbody>
+    <tr>
+      <td>Nov 20th</td>
+      <td>
+        <b>TBD</b>
+        <br>
+        Resources: <b>[TBD<a href=""></a>]</b></td>
+      <td><a href="">TBD</a></td>
+    </tr>
+  </tbody>
+  <!-- -->
+  <!-- -->
+  <tbody>
+    <tr>
+      <td>Dec 4th</td>
+      <td>
+        <b>TBD</b>
+        <br>
+        Resources: <b>[TBD<a href=""></a>]</b></td>
+      <td><a href="">TBD</a></td>
+    </tr>
+  </tbody>
+  <!-- -->
+  <!-- -->
+  <tbody>
+    <tr>
+      <td>Dec 11th</td>
+      <td>
+        <b>TBD</b>
+        <br>
+        Resources: <b>[TBD<a href=""></a>]</b></td>
+      <td><a href="">TBD</a></td>
+    </tr>
+  </tbody>
   <!-- -->
   <!-- <tbody>
     <tr>
