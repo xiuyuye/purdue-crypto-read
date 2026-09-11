@@ -73,7 +73,7 @@ The goal is to foster a collaborative learning environment where participants ca
       <td>
         <b>Efficient Pseudorandom Correlation Generator</b>
         <br>
-        Resources: <b>[<a href="https://eprint.iacr.org/2025/169">BCG+19</a>]</b>, <b>[<a href="https://eprint.iacr.org/2025/169">LXYY25a</a>]</b>, [<a href="https://eprint.iacr.org/2025/1223">LXYY25b</a>], [<a href="https://eprint.iacr.org/2026/196">LLX+26</a>]
+        Resources: <b>[<a href="https://eprint.iacr.org/2025/169">LXYY25a</a>]</b>, [<a href="https://eprint.iacr.org/2025/1223">LXYY25b</a>], [<a href="https://eprint.iacr.org/2026/196">LLX+26</a>]
       </td>
       <td><a href="https://jihunhwang.github.io/">Jihun Hwang (Jimmy)</a></td>
     </tr>
