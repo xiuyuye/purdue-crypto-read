@@ -84,9 +84,9 @@ The goal is to foster a collaborative learning environment where participants ca
     <tr>
       <td>Oct 2nd</td>
       <td>
-        <b>Title TBD</b>
+        <b>ECC.fail: Mounting Rowhammer Attacks on DDR4 Servers with ECC Memory</b>
         <br>
-        Resources: <b>[<a href="">TBD</a>]</b>
+        Resources: <b>[<a href="https://ecc.fail/">KWS+25</a>]</b>, [<a href="https://arxiv.org/abs/2609.16546">LQRS26</a>]
       </td>
       <td><a href="https://www.cs.purdue.edu/homes/white570/">Jacob White</a></td>
     </tr>
@@ -97,11 +97,14 @@ The goal is to foster a collaborative learning environment where participants ca
     <tr>
       <td>Oct 9th</td>
       <td>
-        <b>Beyond All-or-Nothing Corruption: Additive Secret Sharing under Hamming-Weight Leakage</b>
+        <!-- <b>Beyond All-or-Nothing Corruption: Additive Secret Sharing under Hamming-Weight Leakage</b> -->
+        <b>Title TBD</b>
         <br>
-        Resources: <b>[<a href="https://www.cs.purdue.edu/homes/hmaji/papers/BHMSY26b.pdf">BHS+26b</a>]</b>, <b>[<a href="https://arxiv.org/abs/2609.08056">BHS+26a</a>]</b>, [<a href="https://eprint.iacr.org/2024/377">FMM+24</a>], [<a href="https://www.cs.purdue.edu/homes/hmaji/papers/ITC:MNPSWYY22.pdf">MNP+22</a>]
+        <!-- Resources: <b>[<a href="https://www.cs.purdue.edu/homes/hmaji/papers/BHMSY26b.pdf">BHS+26b</a>]</b>, <b>[<a href="https://arxiv.org/abs/2609.08056">BHS+26a</a>]</b>, [<a href="https://eprint.iacr.org/2024/377">FMM+24</a>], [<a href="https://www.cs.purdue.edu/homes/hmaji/papers/ITC:MNPSWYY22.pdf">MNP+22</a>]
+        -->
       </td>
-      <td><a href="https://jihunhwang.github.io/">Jihun Hwang (Jimmy)</a></td>
+      <td>TBD</td>
+      <!-- <td><a href="https://jihunhwang.github.io/">Jihun Hwang (Jimmy)</a></td> -->
     </tr>
   </tbody>
   <!-- -->
