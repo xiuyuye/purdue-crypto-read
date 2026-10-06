@@ -119,21 +119,30 @@ The goal is to foster a collaborative learning environment where participants ca
   </tbody> -->
   <!-- -->
   <!-- --> 
-  <tbody>
+<!--   <tbody>
     <tr>
       <td>Oct 16th</td>
       <td>
         <b>Title TBD</b>
         <br>
         Resources: <b>[<a href="">TBD</a>]</b>
-        <!--
         Resources: (TBD) <b>[<a href="https://doi.org/10.1145/800070.802212">GW82</a>]</b>, [<a href="https://doi.org/10.1007/3-540-39568-7_23">BG84</a>], [<a href="https://doi.org/10.1016/0022-0000(84)90070-9">GW84</a>]
-        -->
       </td>
       <td><a href="https://xiuyuye.github.io/">Xiuyu Ye</a></td>
     </tr>
   </tbody>
-  <!-- -->
+  -->
+  <tbody>
+    <tr>
+      <td>Oct 16th</td>
+      <td>
+        <b>Beyond All-or-Nothing Corruption: Additive Secret Sharing under Hamming-Weight Leakage</b>
+        <br>
+        Resources: <b>[<a href="https://www.cs.purdue.edu/homes/hmaji/papers/BHMSY26b.pdf">BHS+26b</a>]</b>, <b>[<a href="https://arxiv.org/abs/2609.08056">BHS+26a</a>]</b>, [<a href="https://eprint.iacr.org/2024/377">FMM+24</a>], [<a href="https://www.cs.purdue.edu/homes/hmaji/papers/ITC:MNPSWYY22.pdf">MNP+22</a>]
+      </td>
+      <td><a href="https://jihunhwang.github.io/">Jihun Hwang (Jimmy)</a></td>
+    </tr>
+  </tbody>
   <tbody>
     <tr>
       <td>Oct 23rd</td>
