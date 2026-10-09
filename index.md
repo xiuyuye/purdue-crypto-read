@@ -86,7 +86,7 @@ The goal is to foster a collaborative learning environment where participants ca
       <td>
         <b><s>ECC.fail: Mounting Rowhammer Attacks on DDR4 Servers with ECC Memory</s></b>
         <br>
-        <s>Resources: <b>[<a href="https://ecc.fail/">KWS+25</a>]</b>, [<a href="https://arxiv.org/abs/2609.16546">LQRS26</a>]</s>
+        <s>Resources: <b>[<a href="https://ecc.fail/">KWS+25</a>]</b>, [<a href="https://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf">KDK+14</a>]</s>
       </td>
       <td><s><a href="https://www.cs.purdue.edu/homes/white570/">Jacob White</a></s></td>
     </tr>
@@ -99,7 +99,7 @@ The goal is to foster a collaborative learning environment where participants ca
       <td>
         <b>ECC.fail: Mounting Rowhammer Attacks on DDR4 Servers with ECC Memory</b>
         <br>
-        Resources: <b>[<a href="https://ecc.fail/">KWS+25</a>]</b>, [<a href="https://arxiv.org/abs/2609.16546">LQRS26</a>]
+        Resources: <b>[<a href="https://ecc.fail/">KWS+25</a>]</b>, [<a href="https://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf">KDK+14</a>], [<a href="https://vvdveen.com/publications/drammer.pdf">VFL+16</a>]
       </td>
       <td><a href="https://www.cs.purdue.edu/homes/white570/">Jacob White</a></td>
     </tr>
@@ -147,10 +147,10 @@ The goal is to foster a collaborative learning environment where participants ca
     <tr>
       <td>Oct 23rd</td>
       <td>
-        <b>TBD</b>
+        <b>(TBD) GPUThor: Amplifying Rowhammer Attacks via Non-Uniform Patterns to Exploit ECC-Protected GPUs</b>
         <br>
-        Resources: <b>[TBD<a href=""></a>]</b></td>
-      <td><a href="">TBD</a></td>
+        Resources: (TBD) <b>[<a href="https://gputhor.com/">LQRS26</a>]</b>, [<a href="https://gpuhammer.com/">LQS25</a>]. [<a href="https://gddr.fail/">WZG+26</a>], [<a href="https://ecc.fail/">KWS+25</a>]</td>
+      <td>(TBD) <a href=""><a href="https://jihunhwang.github.io/">Jihun Hwang (Jimmy)</a></a></td>
     </tr>
   </tbody>
   <!-- -->
@@ -159,10 +159,10 @@ The goal is to foster a collaborative learning environment where participants ca
     <tr>
       <td>Oct 30th</td>
       <td>
-        <b>TBD</b>
+        <b>(TBD) Execute-only Memory Encryption</b>
         <br>
-        Resources: <b>[TBD<a href=""></a>]</b></td>
-      <td><a href="">TBD</a></td>
+        Resources: (TBD) <b>[<a href="https://www.usenix.org/conference/usenixsecurity19/presentation/kwon">KSK+19</a>]</b></td>
+      <td>(TBD) <a href="https://www.cs.purdue.edu/homes/white570/">Jacob White</a></td>
     </tr>
   </tbody>
   <!-- -->
@@ -171,10 +171,10 @@ The goal is to foster a collaborative learning environment where participants ca
     <tr>
       <td>Nov 6th</td>
       <td>
-        <b>TBD</b>
+        <b>(TBD)</b>
         <br>
-        Resources: <b>[TBD<a href=""></a>]</b></td>
-      <td><a href="">TBD</a></td>
+        Resources: (TBD) <b>[TBD<a href=""></a>]</b></td>
+      <td>(TBD) <a href="https://sites.google.com/view/albert-yu">Albert Yu</a></td>
     </tr>
   </tbody>
   <!-- -->
@@ -183,10 +183,10 @@ The goal is to foster a collaborative learning environment where participants ca
     <tr>
       <td>Nov 13th</td>
       <td>
-        <b>TBD</b>
+        <b>(TBD) Optimal Polynomial Intersection</b>
         <br>
-        Resources: <b>[TBD<a href=""></a>]</b></td>
-      <td><a href="">TBD</a></td>
+        Resources: (TBD) <b>[<a href="https://arxiv.org/abs/2610.12357">SW26b</a>]</b>, <b>[<a href="https://arxiv.org/abs/2604.09533">SW26a</a>]</b>, [<a href="https://arxiv.org/abs/2408.08292">JSW+25</a>], [<a href="https://eprint.iacr.org/2019/653">BDIR21</a>]</td>
+      <td>(TBD) <a href="https://xiuyuye.github.io/">Xiuyu Ye</a></td>
     </tr>
   </tbody>
   <!-- -->
