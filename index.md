@@ -197,8 +197,8 @@ The goal is to foster a collaborative learning environment where participants ca
       <td>
         <b>TBD</b>
         <br>
-        Resources: <b>[TBD<a href=""></a>]</b></td>
-      <td><a href="">TBD</a></td>
+        Resources: (TBD) <b>[TBD<a href=""></a>]</b></td>
+      <td>(TBD) <a href="https://www.cs.purdue.edu/people/graduate-students/brunnec.html">Colten Brunner</a></td>
     </tr>
   </tbody>
   <!-- -->
