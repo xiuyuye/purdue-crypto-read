@@ -82,19 +82,6 @@ The goal is to foster a collaborative learning environment where participants ca
   <!-- --> 
   <tbody>
     <tr>
-      <td><s>Oct 2nd</s> <i>(Cancelled)</i></td>
-      <td>
-        <b><s>ECC.fail: Mounting Rowhammer Attacks on DDR4 Servers with ECC Memory</s></b>
-        <br>
-        <s>Resources: <b>[<a href="https://ecc.fail/">KWS+25</a>]</b>, [<a href="https://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf">KDK+14</a>]</s>
-      </td>
-      <td><s><a href="https://www.cs.purdue.edu/homes/white570/">Jacob White</a></s></td>
-    </tr>
-  </tbody>
-  <!-- -->
-  <!-- --> 
-  <tbody>
-    <tr>
       <td>Oct 9th</td>
       <td>
         <b>ECC.fail: Mounting Rowhammer Attacks on DDR4 Servers with ECC Memory</b>
@@ -141,16 +128,6 @@ The goal is to foster a collaborative learning environment where participants ca
         Resources: <b>[<a href="https://www.cs.purdue.edu/homes/hmaji/papers/BHMSY26b.pdf">BHS+26b</a>]</b>, <b>[<a href="https://arxiv.org/abs/2609.08056">BHS+26a</a>]</b>, [<a href="https://eprint.iacr.org/2024/377">FMM+24</a>], [<a href="https://www.cs.purdue.edu/homes/hmaji/papers/ITC:MNPSWYY22.pdf">MNP+22</a>]
       </td>
       <td><a href="https://jihunhwang.github.io/">Jihun Hwang (Jimmy)</a></td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>Oct 23rd</td>
-      <td>
-        <b>(TBD) GPUThor: Amplifying Rowhammer Attacks via Non-Uniform Patterns to Exploit ECC-Protected GPUs</b>
-        <br>
-        Resources: (TBD) <b>[<a href="https://gputhor.com/">LQRS26</a>]</b>, [<a href="https://gpuhammer.com/">LQS25</a>]. [<a href="https://gddr.fail/">WZG+26</a>], [<a href="https://ecc.fail/">KWS+25</a>]</td>
-      <td>(TBD) <a href=""><a href="https://jihunhwang.github.io/">Jihun Hwang (Jimmy)</a></a></td>
     </tr>
   </tbody>
   <!-- -->
