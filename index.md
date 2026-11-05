@@ -136,10 +136,10 @@ The goal is to foster a collaborative learning environment where participants ca
     <tr>
       <td>Oct 30th</td>
       <td>
-        <b>(TBD) Execute-only Memory Encryption</b>
+        <b>Execute-only Memory</b>
         <br>
-        Resources: (TBD) <b>[<a href="https://www.usenix.org/conference/usenixsecurity19/presentation/kwon">KSK+19</a>]</b></td>
-      <td>(TBD) <a href="https://www.cs.purdue.edu/homes/white570/">Jacob White</a></td>
+        Resources: <b>[<a href="https://link.springer.com/chapter/10.1007/978-3-032-07024-1_22">HGS25</a>]</b>, [<a href="https://www.usenix.org/conference/usenixsecurity19/presentation/kwon">KSK+19</a>]</td>
+      <td><a href="https://www.cs.purdue.edu/homes/white570/">Jacob White</a></td>
     </tr>
   </tbody>
   <!-- -->
