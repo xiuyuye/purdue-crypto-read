@@ -148,9 +148,9 @@ The goal is to foster a collaborative learning environment where participants ca
     <tr>
       <td>Nov 6th</td>
       <td>
-        <b>(TBD)</b>
+        <b>MPC Security and Bounds</b>
         <br>
-        Resources: (TBD) <b>[TBD<a href=""></a>]</b></td>
+        Resources: <b>[<a href="https://securecomputation.org/">EKR22</a>]</b></td>
       <td><a href="https://sites.google.com/view/albert-yu">Albert Yu</a></td>
     </tr>
   </tbody>
@@ -160,9 +160,9 @@ The goal is to foster a collaborative learning environment where participants ca
     <tr>
       <td>Nov 13th</td>
       <td>
-        <b>(TBD) Optimal Polynomial Intersection</b>
+        <b>Local Leakage Resilience of Multiplication-friendly Shamir Secret Sharing</b>
         <br>
-        Resources: (TBD) <b>[<a href="https://arxiv.org/abs/2610.12357">SW26b</a>]</b>, <b>[<a href="https://arxiv.org/abs/2604.09533">SW26a</a>]</b>, [<a href="https://arxiv.org/abs/2408.08292">JSW+25</a>], [<a href="https://eprint.iacr.org/2019/653">BDIR21</a>]</td>
+        Resources: <b>[<a href="https://www.cs.purdue.edu/homes/hmaji/papers/HMSY26.pdf">HMSY26</a>]</b>, [<a href="https://www.cs.purdue.edu/homes/hmaji/papers/MNPSW20.pdf">MNP+21</a>], [<a href="https://www.cs.purdue.edu/homes/hmaji/papers/MNPY23b.pdf">MNPY24</a>], [<a href="https://eprint.iacr.org/2019/653">BDIR21</a>]</td>
       <td><a href="https://xiuyuye.github.io/">Xiuyu Ye</a></td>
     </tr>
   </tbody>
@@ -174,7 +174,7 @@ The goal is to foster a collaborative learning environment where participants ca
       <td>
         <b>TBD</b>
         <br>
-        Resources: (TBD) <b>[TBD<a href=""></a>]</b></td>
+        Resources: <b>[TBD<a href=""></a>]</b></td>
       <td><a href="https://www.cs.purdue.edu/homes/mameriek/">Mohammad Hassan Ameri Ekhtiarabadi</a></td>
     </tr>
   </tbody>
@@ -187,7 +187,7 @@ The goal is to foster a collaborative learning environment where participants ca
         <b>TBD</b>
         <br>
         Resources: <b>[TBD<a href=""></a>]</b></td>
-      <td><a href="https://www.cs.purdue.edu/people/graduate-students/brunnec.html">Colten Brunner</a></td>
+      <td><a href="https://www.cs.purdue.edu/homes/akate/">Aniket Kate</a></td>
     </tr>
   </tbody>
   <!-- -->
@@ -196,10 +196,10 @@ The goal is to foster a collaborative learning environment where participants ca
     <tr>
       <td>Dec 11th</td>
       <td>
-        <b>TBD</b>
+        <b>(TBD) Additive Randomized Encodings (ARE)</b>
         <br>
-        Resources: <b>[TBD<a href=""></a>]</b></td>
-      <td><a href="">TBD</a></td>
+        Resources: (TBD) <b>[<a href="https://eprint.iacr.org/2025/1442">BEGI26</a>]</b>, [<a href="https://eprint.iacr.org/2025/104">BEG25</a>], [<a href="https://eprint.iacr.org/2023/870">HIKR23</a>]</td>
+      <td>(TBD) <a href="https://jihunhwang.github.io/">Jihun Hwang (Jimmy)</a></td>
     </tr>
   </tbody>
   <!-- -->
