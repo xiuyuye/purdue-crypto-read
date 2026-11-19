@@ -172,9 +172,9 @@ The goal is to foster a collaborative learning environment where participants ca
     <tr>
       <td>Nov 20th</td>
       <td>
-        <b>TBD</b>
+        <b>Cryptographic Schemes to Enhance the Usability and Security of Password-Based Authentication</b>
         <br>
-        Resources: <b>[TBD<a href=""></a>]</b></td>
+        Resources: <b>[<a href="https://eprint.iacr.org/2026/653">AB26</a>]</b>, [<a href="https://arxiv.org/abs/2409.06128">AB24</a>]</td>
       <td><a href="https://www.cs.purdue.edu/homes/mameriek/">Mohammad Hassan Ameri Ekhtiarabadi</a></td>
     </tr>
   </tbody>
